@@ -16,4 +16,3 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 docker-compose up
 ## if existing port is already been used change exposed port
 
-
